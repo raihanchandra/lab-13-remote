@@ -1,0 +1,27 @@
+html {
+	font-family: sans-serif;
+}
+h1 {
+	color: red;
+}
+h2 {
+	color: green;
+}
+.active {
+	border-style: solid;
+    border-width: 2px;
+    border-left-width: 2px;
+    border-right-width: 2px;
+    border-color: black;
+}
+body {
+	    background: white url(http://images.wikia.com/adventuretimewithfinnandjake/images/3/3a/S1e1_flip_out.png) repeat top right;
+}
+p {
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
+ul {
+	color: blue;
+}
